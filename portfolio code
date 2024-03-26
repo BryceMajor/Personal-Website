@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header-content">
+        <h2 id="header-header">Bryce Major</h2>
+            <div class="header-links">
+                <a href="index.html" class="page-links">Home</a>
+                <a href="about.html" class="page-links">About</a>
+                <a href="portfolio.html" class="page-links">Portfolio</a>
+            </div>
+    </div>
+    <!-- start of page -->
+    <div class="portfolio-page">
+        <h1 class="portfolio-header">My life acheivements so far</h1>
+    <!-- start of running- acheivements -->
+            <div class="acheivements">
+                <h2 class="portfolio-content-header">Running Acheivements</h2>
+                    <div>
+                        <img src="running-acheivements.jpg" class="running-acheivements-img">
+                        <p class="running-acheivements-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id perferendis voluptate incidunt autem eum quaerat deleniti expedita. Eaque omnis distinctio neque temporibus assumenda dolorum est doloremque enim, error cum atque?</p>
+                        <p class="running-acheivements-content">Fuga dolore impedit suscipit, vero odit, sequi in deleniti, odio ipsa facere et. Consequatur modi cum ullam adipisci unde amet qui sed odio officia ipsa omnis earum quibusdam, dolor totam?</p>
+                    </div>
+            </div>
+    <!-- start of movies-tv acheivements -->
+            <div class="acheivements">
+                <h2 class="portfolio-content-header">Movies/TV Acheivements</h2>
+                    <div>
+                        <img src="movies-acheivements.jpg" class="movies-acheivements-img">
+                        <p class="movies-tv-acheivements-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In saepe rem neque! Omnis similique nisi laudantium facere perferendis, quos ipsum ea veniam earum possimus dicta, perspiciatis voluptas saepe accusamus numquam!</p>
+                        <p class="movies-tv-acheivements-content">Fuga dolore impedit suscipit, vero odit, sequi in deleniti, odio ipsa facere et. Consequatur modi cum ullam adipisci unde amet qui sed odio officia ipsa omnis earum quibusdam, dolor totam?</p>
+                    </div>
+            </div>
+    <!-- start of volleyball -->
+            <div class="acheivements">
+                <h2 class="portfolio-content-header">Volleyball Acheivements</h2>
+                    <div>
+                        <img src="volleyball-acheivements.jpg" class="volleyball-acheivements-img">
+                        <p class="volleyball-acheivements-content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda nobis unde sint! Est eligendi velit dolor, veniam consectetur ducimus atque, voluptatem, nostrum enim laboriosam aliquid totam qui omnis necessitatibus! Iste!</p>
+                        <p class="volleyball-acheivements-content">Fuga dolore impedit suscipit, vero odit, sequi in deleniti, odio ipsa facere et. Consequatur modi cum ullam adipisci unde amet qui sed odio officia ipsa omnis earum quibusdam, dolor totam?</p>
+                    </div>
+            </div>
+    </div>
 
+</body>
+</html>
