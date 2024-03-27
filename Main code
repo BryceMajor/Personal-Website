@@ -1,1 +1,32 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header-content">
+        <h2 id="header-header">Bryce Major</h2>
+            <div class="header-links">
+                <a href="index.html" class="page-links">Home</a>
+                <a href="about.html" class="page-links">About</a>
+                <a href="portfolio.html" class="page-links">Portfolio</a>
+            </div>
+    </div>
+<!-- start of page -->
+    <div class="home-page">
+            <div class="basic-info">
+                <img src="Me.jpg" id="home-img">
+                <h1 id="home-page-header">Developer, Musician, Athlete</h1>
+                <p class="basic-info-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum doloribus illo voluptas provident repudiandae sit. Aliquam, voluptatem quidem, neque eos praesentium corrupti iure cum minus consectetur quae iusto laborum eligendi.</p>
+            </div>
+            <div class="quote">
+                <p class="quote-content">"It's time for you to look inward and start asking yourself the big question: Who are you, and what do you want?"</p>
+                <p class="quote-content"> ~Uncle Iroh</p>
+            </div> 
+    </div>
+    
+</body>
+</html>
