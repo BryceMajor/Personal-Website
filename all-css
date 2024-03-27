@@ -1,0 +1,159 @@
+ /* start of main header */
+
+html{
+    background-color: cadetblue;
+}
+body{
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: rgb(1, 1, 92);
+}
+.header-content{
+    position: fixed;
+    justify-content: space-between;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 40px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 12px -2px black;
+}
+#header-header{
+    display: inline;
+    font-size: 40px;
+}
+.header-links{
+    float: inline-end;
+}
+.page-links{
+    color: white;
+    font-size: 40px;
+    margin: 5px;
+}
+
+    /* start of home page */
+
+.home-page{
+    margin: 0;
+    padding: 110px 20px 300px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 0 12px -2px black;
+}
+
+#home-page-header{
+    display: block;
+    font-size: 50px;
+    text-align: left;
+}
+
+.basic-info{
+    display: block;
+}
+
+.basic-info-content{
+    display: block;
+    text-align: left;
+    font-size: 25px;
+}
+
+#home-img{
+    width: 500px;
+    float: right;
+    box-shadow: 0 0 12px -2px black;
+}
+
+.quote{
+    text-align: center;
+    padding-top: 400px;
+    padding-bottom: 200px;
+    font-size: 45px;
+    font-style: italic;
+}
+
+    /* start about page */
+
+.about-page{
+    color: white;
+    padding: 110px 20px 300px;
+    box-shadow: 0 0 12px -2px black;
+    padding-bottom: 20px;
+}
+
+#about-page-header{
+    font-size: 40px;
+}
+
+.about-content-header{
+    font-size: 35px;
+}
+
+.running-content{
+    font-size: 22px;
+}
+
+.movies-tv-content{
+    font-size: 22px;
+}
+
+.volleyball-content{
+    font-size: 22px;
+}
+
+    /* start of portfolio page */
+
+.portfolio-page{
+    color: white;
+    padding: 110px 30px 300px;
+    box-shadow: 0 0 12px -2px black;
+    padding-bottom: 30px;
+}
+
+.portfolio-header{
+    font-size: 60px;
+    border-bottom: 1px solid white;
+}
+
+.acheivements{
+    margin: 32px 48px;
+    padding: 16px;
+    background-color: darkgray;
+}
+
+.portfolio-content-header{
+    border-bottom: 1px solid black;
+    margin-bottom: 32px;
+    font-size: 40px;
+}
+
+p{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.running-acheivements-img{
+    width: 500px;
+    float: right;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    box-shadow: 0 0 12px -2px black;
+}
+
+.movies-acheivements-img{
+    width: 300px;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    box-shadow: 0 0 12px -2px black;
+}
+
+.volleyball-acheivements-img{
+    width: 500px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 12px -2px black;
+}
